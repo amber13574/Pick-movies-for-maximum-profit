@@ -1,0 +1,41 @@
+[
+	{
+     	"movieName" : "Bala",
+	    "startDate" : "2019-01-08",
+	    "endDate" : "2019-01-28"
+	
+   },
+   	{
+     	"movieName" : "Rock",
+	    "startDate" : "2019-01-20",
+	    "endDate" : "2019-01-30"
+	
+   },
+  
+  	{
+     	"movieName" : "PolicyMaker",
+	    "startDate" : "2019-01-29",
+	    "endDate" : "2019-02-16"
+	
+   },
+  
+  	{
+     	"movieName" : "Brave",
+	    "startDate" : "2019-02-02",
+	    "endDate" : "2019-02-12"
+	
+   },
+  
+  	{
+     	"movieName" : "Drive",
+	    "startDate" : "2019-02-10",
+	    "endDate" : "2019-02-18"
+	
+   },
+   	{
+     	"movieName" : "Race",
+	    "startDate" : "2019-02-15",
+	    "endDate" : "2019-02-28"
+	
+   }
+]   
